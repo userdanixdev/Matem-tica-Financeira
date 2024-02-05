@@ -10,3 +10,10 @@ sendo pago no final ou início do mês ( momento ).
   O rendimento financeiro gerado ao investidor por um recurso ( capital ) aplicado em uma opção de investimento, durante determinado período no tempo é chamado de JUROS.
 A taxa de juros (i) é proveniente da relação entre os juros ( j ) e o capital inicial ( C ).
 
+Exemplo:
+  - Se o capital inicial de R$ 100,00 e os juros são de R$30,00 qual é a taxa de juros ( i ) ?
+A equação i=j/C:
+      - i = 30/100 = 30% é a taxa de juros.
+** É necessário indicar o período a que ela se refere **
+Obs:  A UNIDADE DA TAXA DE JUROS ESTÁ INTIMAMENTE RELACIONADA AO PERÍODO NO QUAL OS JUROS FORAM ADQUIRIDOS.
+
