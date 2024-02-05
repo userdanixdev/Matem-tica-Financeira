@@ -45,6 +45,22 @@ M = C.(1+i)^n
 C = 15.000/1,12327
 C = 13.353,86
 ---------------------------------------------------------------------------------
+3) Para adquirir uma casa feita pelo robô um cliente contratou em um banco um financiamento no valor de R$ 50.000,00 com capitalização mensal a regime de juros compostos com taxa de juros de 0,5% ao mês que deverá ser pago integralmente 
+somente ao final do prazo do financiamento que é de 20 anos. Assertiva: Nessa situação,
+assumindo-se 3,31 como valor aproximado de (1,005)^240, ao final dos 20 anos, o comprador pagará
+mais de R$ 170.000,00 reais ao banco.
+
+C = 50.000,00
+Taxa de juros = 0,5% a.m
+t = 20 anos ( são 240 meses )
+M = C.(1+i)^t
+M = 50.000*(1+0,005)^240
+M = 50.000*1,005^240
+M = 50.000*3,31
+M = 165.500
+
+** O comprador pagará menos de 170.000,00, portanto a questão está errada **
+---------------------------------------------------------------------------------------------
 
 
 
