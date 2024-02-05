@@ -61,6 +61,22 @@ M = 165.500
 
 ** O comprador pagará menos de 170.000,00, portanto a questão está errada **
 ---------------------------------------------------------------------------------------------
+4) Uma pessoa aplicou 8% do seu capital de R$ 187.500,00 a juros compostos, por um período de 6 meses
+a uma taxa de 2% ao mês. Ao final desse período , somente os jutos apurados totalizaram a soma
+entre as seguintes faixas:
+Dados: (1,02)^6=1,12616
+
+O valor que será aplicado é 8% de R$187.500,00 = 15.000,00
+Então, C = 15.000
+n = t = 6 meses
+i  = taxa de juros = 2% a.m ( ao mês )
+M = C.(1+i)^t
+M = 15.000.(1+2/100)^6
+M = 15000.(1+0,02)^6
+M = 15000.(1,02)^6
+M = 15.000*(1,12616)
+M = 16.892,4
+
 
 
 
