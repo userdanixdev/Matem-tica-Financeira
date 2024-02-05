@@ -89,7 +89,13 @@ Proporcionalidade dos Juros:
                 *** POIS GERAM O MESMO MONTANTE EM UM MESMO PERÍODO DE TEMPO. ***
 *** POR OUTRO LADO, ISSO NÃO É VÁLIDO PARA REGIME DE CAPITALIZAÇÃO COMPOSTO, POIS JÁ VIMOS EM EXEMPLOS ANTERIORES QUE A TAXA ANUAL EQUIVALENTE A JUROS COMPOSTO DA TAXA DE 1% A.A É ((1+0,01)^12-1) = 12,6825% a.a ***
 
+Taxas Nominal e Efetiva:
+  - Outro conceito importante é a taxa de juros nominal. A taxa nominal é a taxa de juros em que a unidade referencial de seu tempo não coincide com a unidade de tempo
+dos períodos de capitalização. A taxa nominal é geralmente fornecida em termos anuais. ( TNA )
+e os períodos de capitalização podem ser semestrais, trimestrais, mensais & diários.
 
+*** A TAXA NOMINAL, APESAR DE BASTANTE UTILIZADA NO EMRCADO, NÃO REPRESENTA UMA TAXA EFETIVA E POR ISSO NÃO DEVE SER USADA NOS CÁLCULOS FINANCEIROS NO REGIME DE JUROS COMPOSTOS.
+TODA TAXA NOMINAL TRAZ NO ENUNCIADO UMA TAXA EFETIVA IMPLÍCITA OU ASSOCIADA PARA QUE POSSA SER APLICADA EM CADA PERÍODO DE CAPITALIZAÇÃO.
 
 
 
