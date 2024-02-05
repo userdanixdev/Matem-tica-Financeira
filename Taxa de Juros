@@ -53,7 +53,15 @@ a taxa de juros irá incidir sobre o montante acumulado no final do período atr
         *** Sendo assim, o M é o montante total a ser pago, C é o capital inicial e o 'n' é número de períodos que decorre entre o momento em que se recebe o empréstimo
                         e os prazos para ser reembolsado com juros. No nosso caso, n = 3. ********
 
-  
+  RESUMO:
+
+    - Na modalidade de juros simples, os juros nunca passam a formar parte do capital. No caso de juros compostos, os juros periodicamente passam a formar parte do capital e com eles começam
+a ser gerados novos juros. Juros sobre juros.
+
+Aplicações no cotidiano:
+    - Estamos sempre nos deparando com o regime de capitalização composto, como para uma aplicação em poupança, CDB ou empréstimo ao banco.
+*** O regime de capitalização simples é aplicado apenas para cheque especial, com taxa mensal. Por que o período é inferior à unidade ( 1 mês ).
+
 
 
 
