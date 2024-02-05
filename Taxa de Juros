@@ -62,6 +62,8 @@ Aplicações no cotidiano:
     - Estamos sempre nos deparando com o regime de capitalização composto, como para uma aplicação em poupança, CDB ou empréstimo ao banco.
 *** O regime de capitalização simples é aplicado apenas para cheque especial, com taxa mensal. Por que o período é inferior à unidade ( 1 mês ).
 
+Observações importantes:
+    - Somente após completar o mês, é que os juros compostos superarão os juros simples. Isso acontece pois no regime de capitalização compostos os juros do período anterior são incorporados para o cálculo do próximo juros.
 
 
 
