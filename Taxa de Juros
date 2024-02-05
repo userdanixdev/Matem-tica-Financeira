@@ -25,4 +25,13 @@ JUROS SIMPLES:
 
 *** NA CAPITALIZAÇÃO SIMPLES, OS RENDIMENTOS RENDEM APENAS SOBRE O CAPITAL INCIAL (C), OU PRINCIPAL.
                     ***** i é a taxa de juros cobrada em 'n' períodos. ***********
+      - O juro total da aplicação é a SOMA de todos os períodos. Podemos calcular o juro total da aplicação pela fórmula j = C*i*n
+      -  O montante final (M) é dado pela equação M=C+J que também pode ser representada pela sequinte maneira:
+                                        ***  M = C *(1+t*i)
+RESUMO CAPITALIZAÇÃO SIMPLES:
+        - j = C.i.n   -- Onde 'C' é o capital em unidades monetárias,'i' é a taxa de juros e 'n' o período.
+        - M = C + J ou M = C.(1+n.i)
+
+
+
 
