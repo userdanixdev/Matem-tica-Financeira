@@ -32,6 +32,29 @@ RESUMO CAPITALIZAÇÃO SIMPLES:
         - j = C.i.n   -- Onde 'C' é o capital em unidades monetárias,'i' é a taxa de juros e 'n' o período.
         - M = C + J ou M = C.(1+n.i)
 
+JUROS COMPOSTOS:
+  - A taxa de juros incide sobre o montante acumulado no final do período anterior- capital inicial mais juros.
+De maneira geral, as fórmulas para juros compostos são as seguintes:
+        -  M =  C.(1+i)^n - 
+Para o cálculo de juros:
+        - J = C.((1+i)^n-1)
+Exemplo:
+  - O montante e os juros compostos obtidos em uma aplicação de um capital C= R$1.000,00, durante 4 anos, à taxa de juros de 10% ao ano são dados por:
+            - M = C.(1+i)^ = 1.000,00.(1+0,1)^4 = 1.000,00(1,1)^4= 1.000,00*1,4641 = 1.464,10 - 
+            - Logo com o valor do montante:
+                      - J = M- C = 1.464,10 - 1000 = 464,10
+                      - j -  R$ 1.000,00((1+0,1)^4-1) = 464,10
+
+Exemplo 02:
+  - Realizado um empréstimo de R$ 1.000,00 a um banco que cobra uma taxa de juros de 4% ao semestre, durante três semestres, em um regime de capitalização composto, ou seja,
+a taxa de juros irá incidir sobre o montante acumulado no final do período através da capitalização.
+    *** O MONTANTE TOTAL A SER PAGO NO FINAL DE TRÊS SEMESTRES É DE R$ 1.124,86 E PODE SER OBTIDO COM A APLICAÇÃO DA SEGUINTE FÓRMULA:
+                M = C.(1+0,04)^n
+        *** Sendo assim, o M é o montante total a ser pago, C é o capital inicial e o 'n' é número de períodos que decorre entre o momento em que se recebe o empréstimo
+                        e os prazos para ser reembolsado com juros. No nosso caso, n = 3. ********
+
+  
+
 
 
 
