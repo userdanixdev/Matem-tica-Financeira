@@ -17,3 +17,12 @@ A equação i=j/C:
 ** É necessário indicar o período a que ela se refere **
 Obs:  A UNIDADE DA TAXA DE JUROS ESTÁ INTIMAMENTE RELACIONADA AO PERÍODO NO QUAL OS JUROS FORAM ADQUIRIDOS.
 
+JUROS SIMPLES:
+  - As parcelas de juros simples são sempre iguais, os juros para cada período resultam da aplicação da TAXA DE JUROS sobre o CAPITAL INCIAL e ambas variáveis não mudam com o tempo.
+        Exemplo:
+            - Um capital emprestado (C) de R$ 100,00 é aplicado a uma taxa de juros de 10% a.a, durante um período de 5 anos.
+                O resultado são 5 parcelas iguais de R$10,00 e o valor no final do perído de R$150,00, fruto do somatório.
+
+*** NA CAPITALIZAÇÃO SIMPLES, OS RENDIMENTOS RENDEM APENAS SOBRE O CAPITAL INCIAL (C), OU PRINCIPAL.
+                    ***** i é a taxa de juros cobrada em 'n' períodos. ***********
+
