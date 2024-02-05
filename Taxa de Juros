@@ -82,6 +82,12 @@ Exemplo:
   ISSO IMPLICA QUE AS TAXAS DE 4% AO SEMESTRE E 1,9804% AO TRIMESTRE SÃO EQUIVALENTES.
         *** OBS: NOTA-SE QUE AS TAXAS SÃO EFETIVAS, SIGNIFICA QUE SÃO AS VERDADEIRAS TAXAS PAGAS PELA PESSOA QUE RECEBE O EMPRÉSTIMO. ***
 
+Proporcionalidade dos Juros:
+    - São consideradas proporcionais quando as taxas estão na mesma proporção em relação ao período de tempo.
+          - Uma taxa de juros de 12% ao ano é proporcional auma taxa de 1% a.m, pois 12 está para 1 na mesma proporção que 1 ano ( 12 meses ) está para 1 mês.
+*** TAXA DE JUROS PROPORCIONAL É IGUAL À TAXA EQUIVALENTE APENAS PARA O REGIME DE CAPITALIZAÇÃO SIMPLES EM QUE 1% É EQUIVALENTE A 12% A.A ***
+                *** POIS GERAM O MESMO MONTANTE EM UM MESMO PERÍODO DE TEMPO. ***
+*** POR OUTRO LADO, ISSO NÃO É VÁLIDO PARA REGIME DE CAPITALIZAÇÃO COMPOSTO, POIS JÁ VIMOS EM EXEMPLOS ANTERIORES QUE A TAXA ANUAL EQUIVALENTE A JUROS COMPOSTO DA TAXA DE 1% A.A É ((1+0,01)^12-1) = 12,6825% a.a ***
 
 
 
