@@ -79,6 +79,19 @@ M = 16.892,43
 
 J = M - C
 J = 16892,43 - 15.000 = 1892,43
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+5) Pedro aplicou R$10.000,00 em uma instituição financeira pelo prazo de 3 meses consecutivos. A taxa de juros compostos
+dessa aplicação no primeiro mês foi de 5%, no segundo mês, de 10% e no terceiro, de 8%.
+Nessa situação, Pedro, ao final do terceiro mês, recebeu de juros mais de R$2.400,00.
+
+Resgate no primeiro mês com juros: 10.500 ( 5% )
+Resgate no segundo mês com juros: 10% de 10.500 =  1050,00 + valor do mês anterior = 11.550,00
+Resgate no terceiro mês com juros: 8% de 11.550,00 = 924,00 + valor do mês anterior = 12.474
+
+J = M - C
+J = 12.474 - 10.000 = 2.474
+J = 2.474 reais de juros. Sendo assim, os juros são mais de R$2.400,00. A questão está correta.
+
 
 
 
