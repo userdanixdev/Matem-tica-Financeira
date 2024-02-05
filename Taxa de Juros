@@ -70,6 +70,22 @@ EQUIVALÊNCIA DAS TAXAS DE JUROS:
 Isso porque podemos querer comparar projetos distintos. Um que apresente uma taxa de retorno mensal e outro que apresente uma taxa de retorno anual.
 Sendo assim, podemos verificar qual projeto será mais vantajoso. Encontrando a taxa equivalente anual para o projeto que tem a taxa de retorno mensal e comparar com a taxa de retorno anual de outro projeto.
 
+Portanto, 1% a.m capitalizado mês a mês por juros compostos, é equivalente a 12,6825% a.a.
+    1% a.m é equivalente a 12% a.a se capitalizado mês a mês por juros simples.
+
+Exemplo:
+        - Uma taxa semestral de 4% aplicada a juros compostos sobre um capital de R$ 1.000,00 obtém no prazo de três semestres, um montante igual a:
+                      M = C.(1+i)^n
+                      M = R$ 1.000,00*1,04^3 = R$ 1.124,86
+        A taxa trimestral de 1,9804% aplicada a R$1.000,00 gera, após seis trimestres, mesmo período de três semestres, o mesmo montante:
+                      M = R$1.000,00*1,019804^6 = R$1.124,86
+  ISSO IMPLICA QUE AS TAXAS DE 4% AO SEMESTRE E 1,9804% AO TRIMESTRE SÃO EQUIVALENTES.
+        *** OBS: NOTA-SE QUE AS TAXAS SÃO EFETIVAS, SIGNIFICA QUE SÃO AS VERDADEIRAS TAXAS PAGAS PELA PESSOA QUE RECEBE O EMPRÉSTIMO. ***
+
+
+
+
+
 
 
 
