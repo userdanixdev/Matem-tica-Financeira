@@ -97,6 +97,21 @@ e os períodos de capitalização podem ser semestrais, trimestrais, mensais & d
 *** A TAXA NOMINAL, APESAR DE BASTANTE UTILIZADA NO EMRCADO, NÃO REPRESENTA UMA TAXA EFETIVA E POR ISSO NÃO DEVE SER USADA NOS CÁLCULOS FINANCEIROS NO REGIME DE JUROS COMPOSTOS.
 TODA TAXA NOMINAL TRAZ NO ENUNCIADO UMA TAXA EFETIVA IMPLÍCITA OU ASSOCIADA PARA QUE POSSA SER APLICADA EM CADA PERÍODO DE CAPITALIZAÇÃO.
 
+Exemplo:
+    - A taxa de juros de 12% a.a, capitalizado mês a mês, significa que devemos dividir 12% por 12 meses ( conceito proporcional ) para obter a taxa efetiva implícita à taxa nominal, ou seja, a taxa que realmente será aplicada na operação é 1% a.m
+***  A TAXA EFETIVA ANUAL EQUIVALENTE (TEA) É SEMPRE MAIOR QUE A TAXA NOMINAL QUE LHE DEU ORIGEM, POIS A EQUIVALÊNCIA É SEMPRE FEITA NO REGIME DE JUROS COMPOSTOS. **
+
+Exemplo:
+    - TNA ( TAXA NOMINAL ANUAL ) = 12% a.a com capitalização mensal que está associada à taxa efetiva implícita de 1% a.m e portanto, para obter o TEA, basta calcular a taxa equivalente
+anual à taxa de 1% a.m.
+            TEA( taxa efetiva anual) = ((1+0,01)^12)-1 = 12,6825% a.a
+
+Exemplo 02:
+    - TNA = 12% a.a com capitalização trimestral que está associada à taxa efetiva impl[icita de 3% a.t, para obter o TEA.
+        - Basta calcular a taxa equivalente anual à taxa de 3% a.t.
+    - TEA = ((1+0,03)^4)-1 = 12,55088% a.a
+    - Um TNA também de 12% a.a com capitalização semestral que está associada à taxa efetiva implícita de 6% a.s, para obter a TEA, basta calcular a taxa equivalente anual à taxa de 6% a.s:
+            - TEA = ((1+0,06)^2)-1 = 12,36% a.a
 
 
 
