@@ -70,6 +70,7 @@ O valor que será aplicado é 8% de R$187.500,00 = 15.000,00
 Então, C = 15.000
 n = t = 6 meses
 i  = taxa de juros = 2% a.m ( ao mês )
+
 M = C.(1+i)^t
 M = 15.000.(1+2/100)^6
 M = 15000.(1+0,02)^6
@@ -109,7 +110,7 @@ M = 12.474,00
 6) Em uma loja, um computador, cujo preço é R$2.200,00 pode ser vendido nas seguintes condições: - à vista com abatimento de 10%
 no preço ou em duas parcelas sendo a primeira delas dada como entrada, correspondendo a 25% do preço.
 A segunda, que corresponde ao restante financiado a juros compostos à taxa de 4% ao mês, deve ser paga ao completar
-2 meses da data da compra. Se 'R' e 'S' são, respectivamente, os totais pagos no primeiro e no segundo casos.
+2 meses da data da compra. Se 'R' e 'S' são, respectivamente, os totais pagos no primeiro e no segundo caso.
 
 a) S = R + R$ 354,64
 b) S + R = R$ 4.312,00
@@ -117,7 +118,7 @@ c) R = S - R$ 179,52
 d) S - R = R$ 99,52
 e) S = 2R
 
-   à vista: 200 - 10% ( 220 ) = R$ 1.980,00
+   à vista: 2.200 - 10% ( 220 ) = R$ 1.980,00
             ou
 Entrada com o preço de 25% do preço do produto:
             Entrada: 25/100*2.200
@@ -126,6 +127,7 @@ Entrada com o preço de 25% do preço do produto:
 
 2.200 - 550 = 1650,00
 i = 4% a.m ( ao mês )
+
 M = C.(1+i)^t
 M = 1650.(1+4/100)^2
 M = 1650.(1+0,04)^2
