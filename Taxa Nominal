@@ -65,7 +65,20 @@ Mas temos que usar a taxa equivalente de taxa efetiva para outra taxa efetiva co
                           -I = 1-1,0816
                           - I = 0,0816  ( em percentuais: 8,16 % ao ano.)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Exemplo 02:
+    - 15% a.t com capitalização mensal = _______ % a.b
+     Taxa nominal - Taxa proporcional:
+                      - 1 Trimestre possui 3 meses, senodo assim: - 5% a.m = ___________ % a.b
+      Taxa efetiva p/ taxa efetiva equivalente:
+          - 5 % a.m = _____________% a.b
+            - 1 + I = (1+ i)^k
+            - 1 + I = (1 + 0,05)²
+            - 1 + I = (1,05)²
+            - I = 1,1025 - 1 
+            - I = 0,1025  ( EM PERCENTUAIS - 10,25 % a.b )
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+        
                 
     
 
