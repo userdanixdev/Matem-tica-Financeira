@@ -47,8 +47,27 @@ M = 1000.(1+0,10)^2
 M = 1000.1,10^2
 M = 1000*1,21
 M = 1210,00 <-------
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TAXA NOMINAL ----> TAXA EFETIVA -----> TAXA EFETIVA
+TAXA NOMINAL ---> TAXA PROPORCIONAL ( PIZZA/FATIA ) ---> TAXA EFETIVA ( TAXA EQUIVALENTE ) ------> TAXA EFETIVA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Exemplo 01:
+  - 8% a.a com capitalização semestral = ____________ % a.a
+- 8% a.a com capitalização semestral = ______________ % a.s
+      ( 8/2 = 4 , então , taxa efetiva semestral de 4% a.s;)
+Mas temos que usar a taxa equivalente de taxa efetiva para outra taxa efetiva com período diferente, no caso é ao ano:
+      - Aplica-se a fórmula:
+          - Taxa(efetiva)= 1+I = (1+i)^n
+              - % a.s = 4 % a.s =  i = taxa efetiva menor
+              - % a.a = ?????? a.a = I = taxa efetiva maior
+          - 1+I = (1+i)^ = 1+I=(1+4/100)^²
+                          -1+ I = (1+0,04)²
+                          -I = 1-1,0816
+                          - I = 0,0816  ( em percentuais: 8,16 % ao ano.)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+                
+    
 
 
 
