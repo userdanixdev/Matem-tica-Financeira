@@ -1,0 +1,26 @@
+              Taxa nominal é regime composto, SOMENTE.
+
+Não serve para as fórmulas, sendo assim, não chegará ao resultado esperado.
+      *** Precisa ser transformada em TAXA EFETIVA ***
+
+Exemplo:
+  -  60% a.a com capitalização mensal = __________ % a.m
+                - 60 / 12 = 5 % a.m - 
+***** TAXA NOMINAL APLICA-SE O CONCEITO DE TAXA PROPORCIONAL *****
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1° - A taxa nominal serve, a princípio, indicar que está no regime composto
+2° - Ser transformada em taxa EFETIVA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Exemplo 01:
+  - 36% a.s com capitalização bimestral = _____% a.b
+      -  Na transformação de taxa nominal para taxa efetiva:
+            - Usa-se o conceito de taxas proporcional:
+                  - 36 / 3 = 12% a.b - 
+
+****  A TAXA EFETIVA DEVERÁ SER APLICADA NAS FÓRMULAS ****
+
+
+
+
