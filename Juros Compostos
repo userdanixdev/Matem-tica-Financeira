@@ -186,6 +186,29 @@ c)4% e 5%
 d)3% e 4%
 e)2% e 3%
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+9) Considerando que 0,7 & 0,05 & 1,8 sejam os valores aproximados, respectivamente,
+de In2, In1,05 e 1,05^12. Se no regime de juros compostos, a taxa de juros efetiva
+for de 5% ao mês, será necessário um período superior a 15 meses para que o valor 
+de um capital inicial dobre.
+
+Ln2 = 0,7
+Ln1,05 = 0,05
+Ln1,05^12 = 1,8
+i = taxa de juros = 5% a.m
+M = 2C
+n = ???
+
+n = ln(M/C)/ln(1+i)
+    ln(2C/C)/ln(1+0,05)
+n = ln2/ln(1,05)
+n = 0,7/0,05
+n = 14 meses
+
+*****  14 meses não é superior a 15 meses, então está errada a questão. ****
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
 
 
 
