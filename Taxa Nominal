@@ -32,6 +32,26 @@ Exemplo 03:
 48% a.q com capitalização bimestral = __________ % a.b
     - 48 / 2 = 24 a.b de taxa efetiva para juros compostos - 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+UM INDIVÍDUO INVESTIU A QUANTIA DE R$1.000,00 EM DETERMINADA APLICAÇÃO COM TAXA NOMINAL ANUAK DE JUTOS DE 40%
+PELO PERÍODO DE 6 MESES, COM CAPITALIZAÇÃO TRIMESTRAL. NESSE CASO AO FINAL DO PERÍODO DE CAPITALIZAÇÃO
+O MONTANTE SERÁ:
+
+C = 1.000,00
+taxa nominal : 40% com capitalização trimestral = 40/4 = 10 % a.t
+Período = 6 meses
+i = 10 % a.t
+** Melhor transformar o período = 2 trismestres **
+
+M =  C.(1+i)^t
+M = 1000.(1+0,10)^2
+M = 1000.1,10^2
+M = 1000*1,21
+M = 1210,00 <-------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
   
 
 
