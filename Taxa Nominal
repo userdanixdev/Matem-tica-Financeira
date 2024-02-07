@@ -77,6 +77,25 @@ Exemplo 02:
             - I = 1,1025 - 1 
             - I = 0,1025  ( EM PERCENTUAIS - 10,25 % a.b )
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Exemplo 03:
+    - 24% a.s com capitalização bimestral = _______ % a.q
+    - Taxa nominal de 24% ( taxa proporcional ) ---> 24/3 = 8% a.b de taxa efetiva - 
+    - Taxa efetiva por taxa equivalente ao quadrimestre : 
+            - 1 + I = (1 + i)^k
+            - *** Bimestre é menor que QUADRIMESTRE, sendo assim:
+                - % a.b ---> i ---> 8 %
+                    - % a.q -----> I
+                    - k -----> 2 bimestre para formar um quadrimestre = período
+            *** 1 + I = (1+ i)^k ***
+                    1 + I = (1 + 0,08)^²
+                    1 + I = (1,08)²
+                    1 + I = 1,1664
+                        I = 0,1664
+              EM PERCENTUAL TEMOS: 16,64 % A.Q
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                
+
 
         
                 
