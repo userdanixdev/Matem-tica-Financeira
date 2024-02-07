@@ -1,0 +1,47 @@
+Fórmula : 
+  - (1+iReal) = (1+iAparente)/(1+Inflação)
+  
+- (1+iAp)=(M/C) <--- Taxa aparente
+
+Calculos para inflação:
+  - Inflação = [(1+Inf¹).(1+Inf²).(1+Inf³)...]-1
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+UM INVESTIDOR APLICOU UM CAPITAL DE R$5.000,00 RESGATANDO O TOTAL DE R$5.800,00 AO FINAL DE UM QUADRIMESTRE.
+NESTE PERÍODO, A TAXA DE INFLAÇÃO FOI DE 2%. DAS TAXAS ABAIXO, A QUE MAIS SE APROXIMA DA TAXA REAL DE JUROS DESSE
+PERÍODO É:
+C = 5.000
+M = 5.800
+n = 1 q = 4 meses
+
+INFLAÇÃO ACUMULADA:
+  - 2%
+A questão quer a taxa real:
+    - PARA ISSO DEVEMOS CALCULAR A TAXA APARENTE:
+- M = C.(1+iap)¹
+    5.800 = 5000.(1+iap)¹
+    (1+iap)¹=5.800/5.000
+    (1+iap)¹=1,16
+      iap¹ = 1-1,16
+iap¹ = 0,16 *** COM PERCENTUAL DE 16% SEM CONSIDERAR A INFLAÇÃO ***
+AGORA COM OS DADOS COLETADOS TEMOS:
+    - A TAXA APARENTE;
+    - A INFLAÇÃO;
+    - DEVEMOS CALCULAR A TAXA REAL;
+
+(1+iR)=(1+iap)/(1+inf)
+(1+iR)=(1+0,16)/(1+0,02)
+(1+iR)=1,16/1,02
+(1+iR) = 1,1373
+iR = 1,1373 - 1 
+iR=0,137  * EM PERCENTUAL TEMOS 13,7% < ---- LEVANDO EM CONSIDERAÇÃO A TAXA DA INFLAÇÃO -----
+
+
+    
+
+
+
+
+  
+    
+    
+  
