@@ -34,6 +34,41 @@ AGORA COM OS DADOS COLETADOS TEMOS:
 (1+iR) = 1,1373
 iR = 1,1373 - 1 
 iR=0,137  * EM PERCENTUAL TEMOS 13,7% < ---- LEVANDO EM CONSIDERAÇÃO A TAXA DA INFLAÇÃO -----
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+UM INVESTIMENTO NO VALOR DE R$ 200.000,00 É REALIZADO NO INÍCIO DE UM DETERMINADO ANO. NO FINAL DESTE ANO, 
+O MONTANTE REFERENTE A ESTE INVESTIMENTO É RESGATADO TOTALMENTE E O SEU VALOR FOI DE R$ 238.560,00.
+SE A TAXA DE INFLAÇÃO NO PERÍODO DESTE INVESTIMENTO FOI DE 12%, ENTÃO A TAXA APARENTE E A TAXA REAL CORRESPONDEM:
+
+C = 200.000,00
+M = 238.560,00
+TAXA DE INFLAÇÃO = 12%
+TAXA APARENTE = ??
+TAXA REAL = ??
+TEMPO ACUMULADO = 1 ANO
+
+M = C.(1+iAp)¹
+238.560= 200.000(1+iAp)¹
+238.560/200.000 = (1+iAp)¹
+1,1928 = (1+iAp)¹
+1,1928 - 1 = iAp
+0,1928 = iAp
+** EM PERCENTUAL É 19,28 % **
+AGORA TEMOS QUE CALCULAR A TAXA REAL:
+    - (1+iR)=(1+iAp)/(1+inflação)
+    - (1+iR)=(1+0,1928)/(1+0,12)
+    - (1+iR)=1,1928/1,12
+    - (1+iR)=1,065
+    - iR = 1,065 - 1
+    - iR = 0,065 ( em percentuais : 6,5% )
+
+* TAXA APARENTE DE 19,28% & TAXA REAL DE 6,5% *
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
 
 
     
