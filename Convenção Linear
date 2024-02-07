@@ -19,6 +19,29 @@ Ou seja: 9 meses são 1 semestre + 3 meses.( 1/2 semestre )
 
 *** O RESULTADO DOS JUROS COMPOSTOS PELA CONVENÇÃO LINEAR SERÁ LIGEIRAMENTE MAIOR QUE PELA CONVENÇÃO EXPONENCIAL ***
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+UM CAPITAL É APLICADO A JUROS COMPOSTOS DURANTE 6 MESES E 10 DIAS A UMA TAXA DE JUROS DE 6% AO MÊS.
+QUAL O VALOR QUE MAIS SE APROXIMA DOS JUROS OBTIDOS COMO PORCENTAGEM DO CAPITAL INICIAL, 
+USANDO CONVENÇÃO LINEAR.  ( dado adc - (1,06)^6 = 1,4185)
+
+C =???
+n = 6 meses + 10 dias (1/3)
+i = 6 % ao mês
+J = (%C)
+** Atribui-se 100 para o capital **
+
+M = C.(1+i)int*(1+i.Q)
+M = 100(1+0,06)^6*(1+0,06*1/3)
+M = 100.(1,4185)*(1+0,06*0,33)
+M = 100.(1,4185)*(1+0,0198)
+M = 100.(1,4185*1,0198)
+M = 100.(1,44)
+M = 144,65 reais de montante
+J = M - C
+J = 144,65 - 100
+J = 44,65
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 
 
 
