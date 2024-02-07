@@ -1,0 +1,15 @@
+Fórmula alternativa de trabalhar operações de juros compostos:
+  - Características:
+        - O tempo ( n ) estará em duas partes:
+              - Parte Inteira
+              - Parte Quebrada
+Exemplo:
+  n = 5 meses e 10 dias
+  i = 2 % a.m
+*** Obs: O pior parte é transformar para a mesma unidade a parte quebrada: 'Q' ***
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Exemplo 02: 
+Uma aplicação irá durar 9 meses
+Com taxa de juros compostos de 5% a.s
+** NESSE EXEMPLO TEMOS SOMENTE 9 MESES DE INFORMAÇÃO, PARA A CONVENÇÃO LINEAR TEMOS QUE EXTRAIR A PARTE QUBRADA DE N ***
+
