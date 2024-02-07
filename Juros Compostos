@@ -247,6 +247,25 @@ CASO ESSE CAPITAL FOSSE APLICADO SOBRE REGIME CAPITALIZAÇÃO COMPOSTA, DURANTE 
 UM OUTRO CAPITAL, NO VALOR DE R$ 15.000,00 APLICADO DURANTE 1 ANO, SOB REGIME DE CAPITALIZAÇÃO COMPOSTA
 A UMA TAXA DE 'i' AO SEMESTRE, NO FINAL APRESENTARIA UM MONTANTE FINAL DE:
 
+CAPITAL 1 = C = ??
+JUROS 1 = 580,00 < ---- Juros anterior
+JUROS 02 =1.1830,00 < ---- Total de juros
+t = 1 ANO
+1183,20 - 580,00 = 603,20  < ---- Juros posterior
+
+i = (j2/j1)-1
+i = (603,20/580)-1
+i = 0,04  - EM PERCENTUAL : 4% A.S
+
+SEGUNDA PARTE DA QUESTÃO:
+      - C = 15.000,00
+      - i = 4% a.s
+      - t = 2 semestres
+M = C.(1+i)^k
+M = 15.000.(1+0,04)²
+M = 15.000 * 1,0816
+M = 16.224,00 < ----- RESPOSTA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
