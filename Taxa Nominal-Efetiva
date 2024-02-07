@@ -166,6 +166,40 @@ I = 0,58 ( TAXA EQUIVALENTE EM PERCENTUAIS: 58% a.a)
 _______________________________________________________________________
 Portanto, a taxa não será inferior a 55%, questão errada.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Um capital é aplicado a juros compostos durante um ano com uma taxa de 4% ao semestre.
+O valor dos juros deste aplicação foi igual a R$ 1.020,00. Caso este capital tivesse sido aplicado
+a juros compostos, durante dois anos, com uma taxa de 10% ao ano, o montante no final deste período será de:
+
+C = ??
+M = ??
+i = 4% a.s
+t = 1 ano = 2 semestres
+Juros = 1.020,00
+
+Existe o calculo para juros:
+  - J = M - C
+      Sendo assim:
+        - M = C + J
+Substituindo o Montante da fórmula de JC geral temos:
+- M = C(1+i)^k    
+- (C + J) = C.(1+i)^k
+- C + 1.020 = C.(1+0,04)²
+- C + 1020 = C.1,0816
+- 0,0816C = 1020
+- C = 1020/0,0816
+- C = 12.500,00
+
+Aplicando a fórmula do Montante padrão para a segunda parte da questão, temos:
+  - M = C.(1+i)^k
+  - M = 12500(1+0,1)^2
+  - M = 12500(1,1)²
+  - M = 12.500*1,21
+  - M = 15.125,00
+
+Obs: No formato original não se aplica ainda, sendo então substituir o montante para capital + juros em decorrência
+da equação CORINGA DOS JUROS ( J = M - C))
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    
+
 
 
 
