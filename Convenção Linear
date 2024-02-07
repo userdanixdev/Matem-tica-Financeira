@@ -15,7 +15,9 @@ Com taxa de juros compostos de 5% a.s
                        - INT -      - Q -
 Ou seja: 9 meses são 1 semestre + 3 meses.( 1/2 semestre )
 
---- M = C.(1+i)I*(1+i.Q) ----
+--- M = C.(1+i)I*(1+i.Q) < ---- Juros compostos
+*** O RESULTADO DOS JUROS COMPOSTOS PELA CONVENÇÃO LINEAR SERÁ LIGEIRAMENTE MAIOR QUE PELA CONVENÇÃO EXPONENCIAL ***
+
 
 
 
