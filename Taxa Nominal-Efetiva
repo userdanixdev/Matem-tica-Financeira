@@ -162,8 +162,11 @@ Taxa efetiva de juros compostos ao mês : 4% a.m para ___ % a.a
 1 + I = (1+0,04)¹²
 1 + I = 1,04¹² ( ++ 1,04^6 = 1,26 ) 1,26 * 1,26 = 1,58) Dados da questão  * aplica-se aqui a proprieda de potenciação, produtos de mesma base e expoente são multipliocados . **
 I = 1 - 1,58
-I = 0,58 ( TAXA EQUIVALENTE EM PERCENTUAIS: 58% )
+I = 0,58 ( TAXA EQUIVALENTE EM PERCENTUAIS: 58% a.a)
+_______________________________________________________________________
+Portanto, a taxa não será inferior a 55%, questão errada.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 
 
