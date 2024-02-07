@@ -63,7 +63,11 @@ AGORA TEMOS QUE CALCULAR A TAXA REAL:
     - iR = 0,065 ( em percentuais : 6,5% )
 
 * TAXA APARENTE DE 19,28% & TAXA REAL DE 6,5% *
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ATENÇÃO!!
+(iReal)<(iAp - Inf) ----> A TAXA REAL SEMPRE SERÁ MENOR QUE A iap - inflação < ---- Verificação 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 
 
