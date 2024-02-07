@@ -40,6 +40,33 @@ J = M - C
 J = 144,65 - 100
 J = 44,65
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AUGUSTO EMPRESTOU R$30.000,00 A CÉSAR, A TAXA DE JUROS DE 10% AO MÊS. ELES COMBINARAM QUE O SALDO DEVEDOR SERIA
+CALCULADO A JUROS COMPOSTOS NO NÚMERO INTEIRO DE MESES E A SEGUIR CORRIGIDO A JUROS SIMPLES COM A MESMA TAXA DE JUROS
+NA PARTE FRACIONÁRIA DO PERÍODO. CONSIDERANDO O MÊS COM 30 DIAS. PARA QUITAR A DÍVIDA 2 MESES E 5 DIAS APÓS O EMPRÉSTIMO
+CÉSAR DEVE PAGAR A AUGUSTO EM REAIS:
+  - C = 30.000
+  - i = 10% a.m
+  - n = 2 meses + 5 dias
+  Na primeira parte do tempo, de 2 meses aplica-se:
+    - M = C.(1+i)^k
+    - M = 30.000.(1+0,1)²
+    - M = 30.000.(1,21)
+    - M = 36.300,00
+Na segunda parte do tempo. O quebrado:
+    - Juros Simples --- 5 dias
+    - C = 36.300,00
+    - i = 10% a.m
+    - n = 5 dias  (1/6 de mês)
+J = C.i/100.n
+J = 36.300*10/100*1/6
+J = 36.30/6 ( elimina os zeros )
+J = 605
+M = C + J
+M = 36300 + 605
+M = 36.905,00 < ------------ RESPOSTA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 
 
 
