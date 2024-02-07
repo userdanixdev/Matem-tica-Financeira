@@ -84,9 +84,44 @@ iR = 0,982 - 1
 iR = -0,018 ( TERMOS PERCENTUAIS: -1,8 % )
 ** PORTANTO O GERENTE ESTAVA ENGANADO POIS NÃO CONSIDEROU A INFLAÇÃO, A PRODUÇÃO CAIU. 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+UM INVESTIDOR TEM DUAS OPÇÕES PARA APLICAR UM DETERMINADO CAPITAL NO MERCADO FINANCEIRO.
+PRIMEIRA OPÇÃO: APLICAR TODO O CAPITAL, DURANTE 1 SEMESTRE, A JUROS COMPOSTOS, A TAXA DE 2% AO TRIMESTRE.
+E RESGATAR TODO O MONTANTE, CORRESPONDENTE DE R$ 13.005,00 NO FINAL DO PERÍODO DE APLICAÇÃO.
+SEGUNDA OPÇÃO: APLICAR TODO O CAPITAL, DURANTE 8 MESES, A JUROS SIMPLES, A TAXA DE 8,4% AO ANO.
+O TOTAL DE JUROS AUFERIDOS SERÁ, caso ele escolha a segunda opção?
 
+1º Opção:
+  - C = ???
+  - n = 1 semestre  ( 2 trimestres )
+  - i = 2 % a.t
+  - M = 13.005,00
 
+Aplicar a fórmula:
+  - 13.005,00 = C.(1+0,02)^k
+  - 13.005,00 = C.(1+0,02)²
+  - 13.005,00 = C.(1,0404)
+  - 13.005,00/1,0404 = C 
+  - 12.500 = C
 
+Segunda opção:
+  - C = 12.500
+  - p = t = 8 meses ( IGUAL A 8/12 --> 2/3 <---- 0,66 )
+  - i = 8,4 % a.a
+
+M = C(1+i.t)
+M = 12.500(1+0,084*0,66)
+M = 12.500(1,05544)
+M = 13.193
+
+13193 - 12500 = 693
+
+J = C.i.n
+J = 12.500*0,084*0,66
+J = 693
+
+J =  M - C
+J = 13193 - 12500 = 693
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
