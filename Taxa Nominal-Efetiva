@@ -143,8 +143,29 @@ BANCO 'B' - TAXA EFETIVA ANUAL DE 5% a.m :
     - 1 + I = 1,70
     - I = 1 - 1,70
     - I = 0,70
-EM PERCENTUAIS SERIA 70 %
+EM PERCENTUAIS SERIA: 70 %
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+UM BANCO FAZ EMPRÉSTIMOS NO REGIME DE JUROS COMPOSTOS A TAXA DE 48% AO ANO COM CAPITALIZAÇÃO MENSAL.
+CONSIDERANDO 1,26 COMO VALOR APROXIMADO PARA 1,04^6, É CORRETO AFIMAR QUE A TAXA EFETIVA ANUAL DESSES EMPRÉSTIMOS
+SERÁ INFERIOR A 55%.
+
+i= 48% a.a  com capitalização mensal = ___% a.m
+ * aplicando o conceito de taxa proporcionais :
+      - 48/12 = 4 % a.m
+
+Taxa efetiva de juros compostos ao mês : 4% a.m para ___ % a.a
+  - APLICAR CONCEITO DE TAXA EQUIVALENTE:
+      - 1+I = (1+i)^k
+  - I = ???
+  - i = 0,04
+  - K = T = N = 12 MESES
+1 + I = (1+0,04)¹²
+1 + I = 1,04¹² ( ++ 1,04^6 = 1,26 ) 1,26 * 1,26 = 1,58) Dados da questão  * aplica-se aqui a proprieda de potenciação, produtos de mesma base e expoente são multipliocados . **
+I = 1 - 1,58
+I = 0,58 ( TAXA EQUIVALENTE EM PERCENTUAIS: 58% )
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 
                 
 
