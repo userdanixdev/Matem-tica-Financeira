@@ -12,4 +12,10 @@ Exemplo 02:
 Uma aplicação irá durar 9 meses
 Com taxa de juros compostos de 5% a.s
 ** NESSE EXEMPLO TEMOS SOMENTE 9 MESES DE INFORMAÇÃO, PARA A CONVENÇÃO LINEAR TEMOS QUE EXTRAIR A PARTE QUBRADA DE N ***
+                       - INT -      - Q -
+Ou seja: 9 meses são 1 semestre + 3 meses.( 1/2 semestre )
+
+--- M = C.(1+i)I*(1+i.Q) ----
+
+
 
