@@ -93,6 +93,24 @@ Exemplo 03:
                         I = 0,1664
               EM PERCENTUAL TEMOS: 16,64 % A.Q
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SUPONHA UMA TAXA DE JUROS NOMINAL DE 10%. CONSIDERANDO UM CAPITALIZAÇÃO SEMESTRAL.
+QUAL A TAXA EFETIVA ANUAL EQUIVALENTE?
+  - i = 10 % a...  com capitalização semestral = ________% a.s
+    - 10 / 2 = taxa efetiva djc = 5% a.s
+A taxa deverá ser transformada para taxa equivalente ao ano:
+      - 5% a.s = ____% a.a
+          - 5 % a.s ---> i
+          - % a.a ---> I
+          - k --- 2 ( são necessários 2 períodos semestrais para completar 1 ano )
+      Fórmula:
+          - 1 + I = (1 + i ) ^ k  
+          - 1 + I = (1 + 0,05)²
+          - 1 + I = (1,05)²
+          - 1 + I  = 1,1025
+          - I = 1,1025 - 1 
+                - I = 0,1025
+          EM PERCENTUAIS : 10,25% A.A
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
                 
 
