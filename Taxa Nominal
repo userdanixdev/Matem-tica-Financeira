@@ -111,6 +111,40 @@ A taxa deverá ser transformada para taxa equivalente ao ano:
                 - I = 0,1025
           EM PERCENTUAIS : 10,25% A.A
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BANCO 'A' ANUNCIA UMA TAXA DE JUROS DE 60% ao ano com capitalização semestral.
+O BANCO 'B' POR SUA VEZ ANUNCIA UMA TAXA DE JUROS DE 30% AO SEMESTRE COM CAPITALIZAÇÃO MENSAL
+
+BANCO 'A' )- i = 60% a.a com capitalização semestral = ______  % a.s
+**** DO MAIOR PARA O MENOR É PIZZA/FATIA ****
+60/2 = 30 % A.S < ----- Taxa efetiva
+
+BANCO 'B') i = 30% a.s com capitalização mensal = _____% a.m
+30/6 =  5% ao mês de taxa efetiva de juros compostos
+
+BANCO A -  TAXA EFETIVA ANUAL -
+    - 30 % a.s -----> ___ % a.a
+I = ??
+i = 30 %
+I = ???___a.a 
+1 + I = (1+i)^k
+1 + I = (1+0,3)^2
+1 + I = 1,3²
+1 + I = 1,69
+I = 1 - 1,69
+I = 0,69
+EM PERCENTUAIS : 69 %
+BANCO 'B' - TAXA EFETIVA ANUAL DE 5% a.m :
+    - I = ??
+    - i = 5%
+    - k = n = t = 12
+    - 1 + I = (1 + i)^k
+    - 1 + I = (1 + 0,05)^12
+    - 1 + I = 1,05^12
+    - 1 + I = 1,70
+    - I = 1 - 1,70
+    - I = 0,70
+EM PERCENTUAIS SERIA 70 %
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
                 
 
