@@ -67,6 +67,29 @@ AGORA TEMOS QUE CALCULAR A TAXA REAL:
 ATENÇÃO!!
 (iReal)<(iAp - Inf) ----> A TAXA REAL SEMPRE SERÁ MENOR QUE A iap - inflação < ---- Verificação 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AO VERIFICAR QUE O VOLUME DE VENDAS, EM REAIS, AUMENTOU 8,02%. PORÉM, AO SER INFORMADO DE QUE OS PREÇOS
+DOS PRODUTOS ( INFLAÇÃO ) , NO MESMO PERÍODO, AUMENTARAM 10%, O GERENTE PERCEBEU QUE NA REALIDADE
+O PERÍODO DE PRODUÇÃO FOI DE:
+
+iAp = 8,02 % ( taxa aparente )
+DESCOBRIR A TAXA REAL.
+INFLAÇÃO acumulada: 10%
+iR = ??
+(1+iR)=(1+iAp)/(1+inflação)
+(1+iR)=(1+0,0802)
+(1+iR)=(1+0,10)
+(1+iR)=1,0802/1,10
+(1+iR)=0,982
+iR = 0,982 - 1
+iR = -0,018 ( TERMOS PERCENTUAIS: -1,8 % )
+** PORTANTO O GERENTE ESTAVA ENGANADO POIS NÃO CONSIDEROU A INFLAÇÃO, A PRODUÇÃO CAIU. 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
 
 
 
