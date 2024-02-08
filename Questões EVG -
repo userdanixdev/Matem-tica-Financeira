@@ -23,10 +23,10 @@ Um investidor aplicou R$ 100,00 à taxa de 1% am, R$ 200,00 à taxa de 1,6% am e
 Determine a taxa média de juros. Marque a alternativa que represente sua resposta.
 
 Aplicação: R$ 100,00
-taxa de juros : 1% a.m
+Taxa de juros : 1% a.m
 
 Aplicação: R$ 200,00
-Taxa de juros: 1,6%
+Taxa de juros: 1,6% a.m
 
 Aplicação: R$ 400,00
 Taxa de juros: 4% a.m
@@ -38,7 +38,7 @@ Taxa média de juros: (C¹*i/100¹+C²*i/100²+C³*i/100³)/C¹+C²+C³
 			EM PERCENTUAIS : 2,885 % MÉDIA
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Que capital, aplicado a juros compostos à taxa de 2% am, produz um montante de R$ 4.000,00 em um mês?
+Que capital, aplicado a juros compostos à taxa de 2% a.m, produz um montante de R$ 4.000,00 em um mês?
 
 Taxa de juros - 2% a.m 
 Montante = M = 4.000,00
@@ -54,7 +54,7 @@ Em regime de juros compostos temos o seguinte montante:
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Sua empresa aplicou um capital de R$ 3.000,00 a juros simples durante três anos a uma taxa de 11,25% aa. 
+Sua empresa aplicou um capital de R$ 3.000,00 a juros simples durante três anos a uma taxa de 11,25% a.a. 
 Obtenha o valor dos juros e o montante após os 3 anos. Marque a alternativa que represente sua resposta.:
 
 C = 3.000,00
@@ -75,7 +75,7 @@ J = 1.012,5
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Dada a taxa de juros 10% aa. Calcule as taxas equivalentes ao dia (ad), ao mês (am), ao bimestre (ab) e ao semestre (as) no regime de capitalização a juros simples.
+Dada a taxa de juros 10% a.a. Calcule as taxas equivalentes ao dia (ad), ao mês (am), ao bimestre (ab) e ao semestre (as) no regime de capitalização a juros simples.
 
 10% ao ano -----> ____a.d (0,0273 % a.d)
 
