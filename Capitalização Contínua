@@ -1,3 +1,33 @@
 Um capital de R$ 50.000,00 foi aplicado à taxa semestral i durante 2 anos, com capitalização contínua
-apresentando no final do período um montante igual a R$ 200.000,00. Utilizando ln 2=0,69
-o valor de 'i' será??
+apresentando no final do período um montante igual a R$ 200.000,00. 
+Utilizando ln 2 = 0,69 o valor de 'i' será??
+
+C = 50.000,00
+n = 2 anos  ( 2 anos são mesma coisa que 4 semestres )
+i = ??? a.s
+M = 200.000,00
+
+M = C.e(i.n)
+200.000 = 50,000.e(4.i)
+200.000/50.000 = e(4.i)
+4 = e(4.i)
+e(4.i) = 4
+lne(4.i) = ln(4)
+lne(4.i) = ln2²
+
+4ilne = 2(ln2)
+4.i = 2.(0,69)
+4i = 1,38
+i = 1,38/4
+i = 0,345
+
+Em percentual: 3,45%
+
+
+
+
+
+
+
+
+
