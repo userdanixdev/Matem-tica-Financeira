@@ -1,0 +1,91 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Durante quanto tempo um capital de R$1.000,00 deve ser aplicado a juros compostos à taxa de 10% aa para resultar em um montante de R$ 1.610,51?
+
+C = 1.000,00
+taxa de juros = 10% a.a
+M = 1610,51
+t = ???
+
+M = C.(1+i)^t
+1610,51 = 1.000.(1+10/100)^t
+1610,51/1000 = (1+0,1)^t
+1,61051 = (1+0,1)^t
+1,61051 = (1+0,1)^t
+1,61051 = 1+0,1^t
+t = 1,61051/1+0,1
+t = ln(1,611051)/ln(1+0,10)
+t = 0,47822/0,09531
+t = 5,017
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Um investidor aplicou R$ 100,00 à taxa de 1% am, R$ 200,00 à taxa de 1,6% am e R$ 400,00 a 4% am, todas expressas a juros simples. 
+Determine a taxa média de juros. Marque a alternativa que represente sua resposta.
+
+Aplicação: R$ 100,00
+taxa de juros : 1% a.m
+
+Aplicação: R$ 200,00
+Taxa de juros: 1,6%
+
+Aplicação: R$ 400,00
+Taxa de juros: 4% a.m
+
+Taxa média de juros: (C¹*i/100¹+C²*i/100²+C³*i/100³)/C¹+C²+C³
+		      100*0,01+200*0,016+400*0,04/100+200+400
+				1 + 3,2 + 16 / 700
+				     0,02885
+			EM PERCENTUAIS : 2,885 % MÉDIA
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Que capital, aplicado a juros compostos à taxa de 2% am, produz um montante de R$ 4.000,00 em um mês?
+
+Taxa de juros - 2% a.m 
+Montante = M = 4.000,00
+Período = 1 mês
+Capital = ???
+
+Em regime de juros compostos temos o seguinte montante:
+	- M = C.(1+i)^k
+	- 4.000 = C.(1+0,02)^1
+	- 4.000 = C.(1,02)
+	- 4.000/1,02 = C
+	- C = 3.921,56
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sua empresa aplicou um capital de R$ 3.000,00 a juros simples durante três anos a uma taxa de 11,25% aa. 
+Obtenha o valor dos juros e o montante após os 3 anos. Marque a alternativa que represente sua resposta.:
+
+C = 3.000,00
+Período = 3 anos
+taxa = 11,25 a.a
+Juros = ???
+Montante = ???
+
+M =  C(1+i.t)
+M = 3000(1+0,1125*3)
+M = 3000(1+0,3375)
+M = 3000(1,3375)
+M = 4.012,50
+
+J =  M - C
+J = 4012,50 - 3000
+J = 1.012,5
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Dada a taxa de juros 10% aa. Calcule as taxas equivalentes ao dia (ad), ao mês (am), ao bimestre (ab) e ao semestre (as) no regime de capitalização a juros simples.
+
+10% ao ano -----> ____a.d (0,0273 % a.d)
+
+10% ao ano ---->___a.m (10/30 = 0,3 % a.m
+
+10% ao ano -----> ____a.b (1,666 a.b)
+
+10% ao ano ----->_____a.s (5% a.s)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+			
+			
