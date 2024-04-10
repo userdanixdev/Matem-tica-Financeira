@@ -1,3 +1,3 @@
 # Matemática-Financeira
-Conceitos &amp; exemplos praticos de matemática financeira
+Conceitos &amp; exemplos práticos de matemática financeira
 #
